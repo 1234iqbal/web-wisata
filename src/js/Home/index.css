@@ -1,0 +1,58 @@
+.logo {
+  margin-left: 8%;
+}
+.top-bar {
+  font-size: 12px;
+  width: 100%;
+  clear: both;
+  float: left;
+  background: #1c1c1c;
+  padding: 10px 0px;
+  color: #ffffff;
+}
+.icon {
+  margin-top: 5px;
+}
+.icon2 {
+  margin-top: 15px;
+}
+.top-right {
+  margin: 10px;
+  padding-bottom: 0px;
+}
+li {
+  margin-right: 10px;
+}
+ul {
+  float: right;
+  display: flex;
+  list-style: none;
+}
+.nav {
+  margin-right: 15%;
+}
+.footer {
+  background-color: #333;
+  color: white;
+  font-size: 10px;
+}
+.img-grid-home {
+  height: 255px;
+}
+.EP8nD {
+  list-style-type: none;
+}
+._3XEIj {
+  width: 64px;
+  height: 48px;
+  display: inline-block;
+  margin: 0 8px 8px 0;
+  position: relative;
+  vertical-align: middle;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 4px;
+}
+ul {
+  text-decoration: none;
+}
